@@ -1,0 +1,3 @@
+[submodule "hangman-classic"]
+	path = ../hangman-classic
+	url = https://ytrack.learn.ynov.com/git/aflorian/hangman-classic.git
